@@ -34,3 +34,6 @@ load();
 function teste(){
 	alert("capital code");
 }
+function teste2(){
+	alert("teste2");
+}
