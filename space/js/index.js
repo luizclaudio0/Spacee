@@ -37,3 +37,6 @@ function teste(){
 function teste2(){
 	alert("teste2");
 }
+function teste3(){
+	alert("bla");
+}
